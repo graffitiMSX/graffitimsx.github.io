@@ -1,6 +1,6 @@
 # Welcome to Rudolf Gutlich repository!
 
-Hi! I'm **udolf Gutlich** and this my github repository, here for you to see and follow my study projects, templates for other projects, and my notes and tips, soon for a blog where I will share my knowledge and new ones as you get and breaking your head lol
+Hi! I'm **Rudolf Gutlich** and this my github repository, here for you to see and follow my study projects, templates for other projects, and my notes and tips, soon for a blog where I will share my knowledge and new ones as you get and breaking your head lol
 
 # WhoAmI
 
@@ -14,11 +14,11 @@ The skills in **bold** are those that I have a greater knowledge and experience.
 **JavaScript**, **Vue.js**, **Vuex**, **CSS3**, **HTML5**, **Bootstrap**, **ES6**, Angular6.
 
 ### # Backend
-**.NET**, **C#**,** WebApi**, **RESTful**, **NodeJS**, **Express**, **Python**, Mongoose.
+**.NET**, **C#**, **WebApi**, **RESTful**, **NodeJS**, **Express**, **Python**, Mongoose.
 
 ### # Database
 -- Relational
-Mysql, **SQLServer**, **Oracle**, PostgreSQL
+MySql, **SQLServer**, **Oracle**, PostgreSQL
  -- No Relational (NoSQL)
 Mongo.
 
