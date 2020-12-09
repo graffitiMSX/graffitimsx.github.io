@@ -1,17 +1,17 @@
 # Welcome to Rudolf Gutlich repository!
 
-Hi! I'm **Rudolf Gutlich** and this my github repository, here for you to see and follow my study projects, templates for other projects, and my notes and tips, soon for a blog where I will share my knowledge and new ones as you get and breaking your head lol
+Hi! I'm **Rudolf Gutlich** and this my github repository, here for you to see and follow my study projects, templates for other projects, and my notes and tips.
 
 # WhoAmI
 
-I am a fullstack developer, always learning new technologies, open for a good social relationship, ease of communication, dynamic spirit, proactive and with great teamwork.
+I am a fullstack developer, tech leader and systems architect, always learning new technologies. I´m open for a good social relationship, with ease of communication, dynamic spirit, proactive and with great teamwork.
 
 ## Skills
 These are my skills.
 The skills in **bold** are those that I have a greater knowledge and experience.
 
 ### # Frontend
-**JavaScript**, **Vue.js**, **Vuex**, **CSS3**, **HTML5**, **Bootstrap**, **ES6**, Angular6.
+**JavaScript**, **React Native**, **Vue.js**, **Vuex**, **CSS3**, **HTML5**, **Bootstrap**, **ES6**, Angular6.
 
 ### # Backend
 **.NET**, **C#**, **WebApi**, **RESTful**, **NodeJS**, **Express**, **Python**, Mongoose.
@@ -20,10 +20,10 @@ The skills in **bold** are those that I have a greater knowledge and experience.
 -- Relational
 MySql, **SQLServer**, **Oracle**, PostgreSQL
  -- No Relational (NoSQL)
-Mongo.
+MongoDB, RavenDB.
 
 ### # Devops
-Heroku, **Amazon**, **Private Server**, **Azure**, Vagrant, Nginx
+Heroku, **AWS**, **Private Server**, **Azure**, Vagrant, Nginx, **GCP**, K8s
 
 ### # Tools
-**Git**, **Visual Studio**, Docker
+**Git**, **Visual Studio**, **Visual Studio Code**, Docker
